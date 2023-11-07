@@ -1,2 +1,2 @@
-# Convoluci-nDiscreta
+# Convolucion-Discreta
 Convolución Discreta Basica
